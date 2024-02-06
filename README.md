@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Check out my [c.v](Резюме.pdf)
 <!--
 **Vladislav0904/Vladislav0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
